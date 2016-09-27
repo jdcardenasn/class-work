@@ -18,6 +18,7 @@ public interface ToBeStored {
         System.out.println(cd1);
         System.out.println(cd2);
         System.out.println(cd3);
+        System.out.println("hola mundo");
     }
 }
 
